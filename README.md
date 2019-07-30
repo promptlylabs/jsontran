@@ -1,6 +1,6 @@
 # jsontran
 
-####Applies i18n translations to json. Should support any valid json 
+Applies i18n translations to json. Should support any valid json 
 
 example:
 
